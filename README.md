@@ -36,11 +36,9 @@ After installations is completed, run the app with below in terminal
 
 ## TEAM MEMBERS
 
-```md
 -Gina Zivkovic (Team Leader): https://github.com/GEEZEE91
 -Ash Shilkin: https://github.com/web3zero
 -Zubair Hassam: https://github.com/Zubair-Hassam 
-```
 
 ## DESCRIPTION 
 We created a webapp that allows users to login, create events under a number of categories, and edit the events if needed.
